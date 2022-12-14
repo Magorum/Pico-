@@ -1,0 +1,3 @@
+[submodule "pico/pico/themes/flatui-blog"]
+	path = pico/pico/themes/flatui-blog
+	url = https://github.com/fuzzyfox/pico-flatui-blog.git
